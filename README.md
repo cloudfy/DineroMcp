@@ -17,7 +17,7 @@ Tilføj følgende:
   "mcpServers": {
     "dinero": {
       "type": "http",
-      "url": "[https://your-server-host/mcp](https://mcp.dineroai.app/mcp)"
+      "url": "https://mcp.dineroai.app/mcp"
     }
   }
 }
