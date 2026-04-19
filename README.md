@@ -8,7 +8,7 @@ DineroMcp er en MCP server til Dinero. Dette er ikke et officielt produkt fra Vi
 I Claude tilføjer du `https://mcp.dineroai.app/mcp` som MCP server.
 
 ## Sådan kommer du igang i andre værktøjer (eksempelvis Visual Studio Code)
-Lav eller rediger en `.mcp.json` fil.
+Lav eller rediger en `/.vscode/mcp.json` fil. [Se mere her](https://code.visualstudio.com/docs/copilot/customization/mcp-servers).
 
 Tilføj følgende:
 
