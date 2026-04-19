@@ -32,5 +32,13 @@ Eksempel på prompts:
 Find alle kontakter i organization 455490
 ```
 
+# Jeg oplever en fejl?
+Hvis du oplever en fejl, så prøv lige følgende i Claude.
+1. Fjern Dinero som connector.
+2. Tilføj den igen.
+3. Vælg "Disconnect" og så "Connect" igen bagefter.
+
+Kommer der stadig en fejl, så beskriv dette i `Issues` her på Github.
+
 # Feedback
 Brug `Issues` på dette repository, så kan du give feedback.
